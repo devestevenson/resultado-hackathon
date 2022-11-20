@@ -1,0 +1,31 @@
+.navbar {
+    height: 80px;
+    background-color: var(--blanco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 140px;
+    flex-wrap: wrap;
+   
+}
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--violeta);
+}
+.navbar-box {
+    display: flex;
+    gap: 10px;
+}
+.navbar-box li a{
+    color: var(--violeta);
+    font-size: 16px;
+    border: 1px solid var(--violeta);
+    padding: 6px 12px;
+    border-radius: 30px;
+}
+.navbar-box a:hover,
+   .navbar-box a:focus{
+    background-color: var(--violeta);
+    color: white;
+}
