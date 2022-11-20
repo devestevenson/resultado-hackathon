@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/resultado-hackathon/static/css/main.c7ff174b.css",
-    "main.js": "/resultado-hackathon/static/js/main.3867ea8c.js",
+    "main.js": "/resultado-hackathon/static/js/main.3993f901.js",
     "static/media/pngegg.png": "/resultado-hackathon/static/media/pngegg.b5465eb20e7047b353b4.png",
     "index.html": "/resultado-hackathon/index.html",
     "main.c7ff174b.css.map": "/resultado-hackathon/static/css/main.c7ff174b.css.map",
-    "main.3867ea8c.js.map": "/resultado-hackathon/static/js/main.3867ea8c.js.map"
+    "main.3993f901.js.map": "/resultado-hackathon/static/js/main.3993f901.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ff174b.css",
-    "static/js/main.3867ea8c.js"
+    "static/js/main.3993f901.js"
   ]
 }
